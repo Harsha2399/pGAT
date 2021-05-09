@@ -1,7 +1,7 @@
 # pGAT
 
 ## Usage
-The folder ```kge1``` provides the codes for knowledge graph embedding, and the folder ```mln``` gives an implementation of the Markov logic network, in which four rule patterns are considered, including the composition rule, symmetric rule, inverse rule and subrelation rule.
+The folder ```mln``` gives an implementation of the Markov logic network, in which four rule patterns are considered, including the composition rule, symmetric rule, inverse rule and subrelation rule.
 
 Since the MLN module is written in C++, we need to compile the MLN codes before running the program. To compile the codes, we can enter the ```mln```  folder and execute the following command:
 ```
